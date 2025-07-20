@@ -29,7 +29,7 @@ The project utilizes an ultrasonic distance sensor to measure distances and prov
 - Open the Arduino IDE.
 - Connect your Arduino board to the computer via USB.
 - Load the Sketch:
-- Open Ultrasonic_Distance_Sensor_TEST.ino or ok.ino in the Arduino IDE.
+- Open ultrasonic_distance_sensor.ino in the Arduino IDE.
 - Check Board and Port Settings:
 - Go to Tools → Board and select your Arduino board.
 - Go to Tools → Port and select the correct COM port.
